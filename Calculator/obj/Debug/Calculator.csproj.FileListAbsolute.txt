@@ -1,0 +1,12 @@
+C:\Class\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Class\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Class\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Class\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Class\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Class\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Class\SoftwareDeveloperStuffPt.2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Class\SoftwareDeveloperStuffPt.2\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Class\SoftwareDeveloperStuffPt.2\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\GitProjects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\GitProjects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\GitProjects\Calculator\Calculator\obj\Debug\Calculator.pdb
